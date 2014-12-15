@@ -20,7 +20,7 @@ public class BadgeAction extends AbstractBadgeAction implements Action {
     }
 
     public String getIconFileName() {
-        return Jenkins.RESOURCE_PATH+"/plugin/embeddable-build-status/images/24x24/shield.png";
+        return Jenkins.RESOURCE_PATH+"/plugin/embeddable-build-status-kabisa/images/24x24/shield.png";
     }
 
     public String getDisplayName() {
